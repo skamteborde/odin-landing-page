@@ -1,0 +1,67 @@
+body {
+    font-family: Roboto, Oxygen, Ubuntu;
+}
+
+.header,
+.intro,
+.footer {
+    background-color: #1F2937;
+}
+
+
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+#subtext,
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.part-three {
+    background-color: #E5E5EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.attributed {
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: bold;
+}
+
+.four-text {
+    color: #F9FAF8;
+}
