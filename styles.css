@@ -153,6 +153,10 @@ button {
 
 .part-three {
     background-color: #E5E5EB;
+    padding: 180px 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .quote {
@@ -163,15 +167,39 @@ button {
 }
 
 .attributed {
-    font-size: 18px;
+    font-size: 26px;
     color: #1F2937;
     font-weight: bold;
+    align-self: flex-end;
+    margin-right: 32px;
 }
 
-.four-text {
+.four-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px;
+    background-color: #3882F6;
+    padding: 32px 0px;
+    border-radius: 10px;
+}
+
+.four-text p{
     color: #F9FAF8;
+    font-size: 18px;
+    margin: 6px;
+}
+
+.four-text strong {
+    font-size: 24px;
+}
+
+.four-button button{
+    border: solid #F9FAF8 2px;
 }
 
 .footer {
     margin-top: auto;
+    text-align: center;
+    padding: 32px;
 }
