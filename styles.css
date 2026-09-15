@@ -4,6 +4,7 @@ body {
     font-family: Roboto, Oxygen, Ubuntu;
     display: flex;
     flex-direction: column;
+    zoom: 122%;
 }
 
 body {
